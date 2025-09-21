@@ -28,11 +28,10 @@ I'm a Computer Systems student. I'm good at JavaScript/TypeScript front-end ecos
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/> 
 <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black" height="30">
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilalotellez&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+
 
 <hr>
 <p align="center">
